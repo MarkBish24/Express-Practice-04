@@ -1,0 +1,23 @@
+{
+  "name": "express-practice-04",
+  "version": "1.0.0",
+  "description": "This is for practicing express and understanding more of it's fundamentals",
+  "main": "alternative.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBish24/Express-Practice-04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBish24/Express-Practice-04/issues"
+  },
+  "homepage": "https://github.com/MarkBish24/Express-Practice-04#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "lodash": "^4.17.21"
+  }
+}
