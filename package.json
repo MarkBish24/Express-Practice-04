@@ -4,7 +4,9 @@
   "description": "This is for practicing express and understanding more of it's fundamentals",
   "main": "alternative.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,9 @@
   },
   "homepage": "https://github.com/MarkBish24/Express-Practice-04#readme",
   "dependencies": {
-    "bootstrap": "^5.3.7",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
